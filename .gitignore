@@ -9,3 +9,5 @@ export_presets.cfg
 .mono/
 data_*/
 
+Project/maps/CopyToInvasionParty.bat
+Project/maps/Generate.bat

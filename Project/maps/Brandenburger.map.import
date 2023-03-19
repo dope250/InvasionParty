@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://dthqnvuwo4a64"
+path="res://.godot/imported/Brandenburger.map-31c90c583117dcc0e857845964a9b9d1.tres"
+
+[deps]
+
+source_file="res://maps/Brandenburger.map"
+dest_files=["res://.godot/imported/Brandenburger.map-31c90c583117dcc0e857845964a9b9d1.tres"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://8rj8ox3o6535"
+path="res://.godot/imported/DevelopmentRoom.map-f70bb23e87545ddcc5caa9922a990ebb.tres"
+
+[deps]
+
+source_file="res://maps/DevelopmentRoom.map"
+dest_files=["res://.godot/imported/DevelopmentRoom.map-f70bb23e87545ddcc5caa9922a990ebb.tres"]
+
+[params]
+
