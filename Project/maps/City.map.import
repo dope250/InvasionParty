@@ -1,0 +1,14 @@
+[remap]
+
+importer="qodot.map"
+type="Resource"
+uid="uid://cw3n8h5bf7lsh"
+path="res://.godot/imported/City.map-e76a71402d73d0aa7630359aefa3c25d.tres"
+
+[deps]
+
+source_file="res://maps/City.map"
+dest_files=["res://.godot/imported/City.map-e76a71402d73d0aa7630359aefa3c25d.tres"]
+
+[params]
+
