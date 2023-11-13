@@ -2,21 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cj47a8nabfx2v"
-path.s3tc="res://.godot/imported/tile_stoneDark.png-5b1bac340956a2a678b5b034887d457d.s3tc.ctex"
+uid="uid://cwpfdnpdk4o27"
+path="res://.godot/imported/tile_stoneDark.png-5b1bac340956a2a678b5b034887d457d.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
 source_file="res://maps/textures/tile_stoneDark.png"
-dest_files=["res://.godot/imported/tile_stoneDark.png-5b1bac340956a2a678b5b034887d457d.s3tc.ctex"]
+dest_files=["res://.godot/imported/tile_stoneDark.png-5b1bac340956a2a678b5b034887d457d.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
