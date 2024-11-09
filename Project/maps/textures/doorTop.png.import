@@ -2,20 +2,21 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbxw32rk5rnwp"
-path="res://.godot/imported/doorTop.png-b243249dc153d3069a85367cf01c00e6.ctex"
+uid="uid://byuh677aftcgg"
+path.s3tc="res://.godot/imported/doorTop.png-b243249dc153d3069a85367cf01c00e6.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://maps/textures/doorTop.png"
-dest_files=["res://.godot/imported/doorTop.png-b243249dc153d3069a85367cf01c00e6.ctex"]
+dest_files=["res://.godot/imported/doorTop.png-b243249dc153d3069a85367cf01c00e6.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

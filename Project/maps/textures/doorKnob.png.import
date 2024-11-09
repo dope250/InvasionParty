@@ -2,20 +2,21 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://htphrvtp48rt"
-path="res://.godot/imported/doorKnob.png-e0e97d9ace6e276db4a68da0ec9aadae.ctex"
+uid="uid://ctu7q2rurr6fp"
+path.s3tc="res://.godot/imported/doorKnob.png-e0e97d9ace6e276db4a68da0ec9aadae.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://maps/textures/doorKnob.png"
-dest_files=["res://.godot/imported/doorKnob.png-e0e97d9ace6e276db4a68da0ec9aadae.ctex"]
+dest_files=["res://.godot/imported/doorKnob.png-e0e97d9ace6e276db4a68da0ec9aadae.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1

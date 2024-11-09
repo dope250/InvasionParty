@@ -2,22 +2,23 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://lhbyotink1kq"
-path="res://.godot/imported/houseBeigeMidLeft.png-749fcdc6bb18f6601cbe5116af0ba889.ctex"
+uid="uid://draprc8igvbvp"
+path.s3tc="res://.godot/imported/houseBeigeMidLeft.png-749fcdc6bb18f6601cbe5116af0ba889.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
 source_file="res://maps/textures/houseBeigeMidLeft.png"
-dest_files=["res://.godot/imported/houseBeigeMidLeft.png-749fcdc6bb18f6601cbe5116af0ba889.ctex"]
+dest_files=["res://.godot/imported/houseBeigeMidLeft.png-749fcdc6bb18f6601cbe5116af0ba889.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
-compress/lossy_quality=1.0
+compress/lossy_quality=0.7
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
@@ -25,7 +26,7 @@ mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
+process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
